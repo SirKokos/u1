@@ -1,0 +1,3 @@
+[submodule "u2"]
+	path = u2
+	url = https://github.com/SirKokos/u2.git
